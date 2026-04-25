@@ -1,0 +1,6 @@
+MacShader/MacShader.xcodeproj/xcuserdata/
+MacShader/MacShader.xcodeproj/project.xcworkspace/xcuserdata/
+MacShader/*.xcodeproj/xcuserdata/
+DerivedData/
+*.xcuserstate
+.DS_Store
