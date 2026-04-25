@@ -18,7 +18,7 @@ Clone and build in Xcode, or:
 xcodebuild -scheme MacShader -configuration Release build
 ```
 
-Then launch `MacShader.app`. A 📺 icon appears in your menu bar — no Dock icon.
+Then launch `MacShader.app`. A screen icon appears in your menu bar (no Dock icon).
 
 ## Controls
 
